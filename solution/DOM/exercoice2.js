@@ -1,3 +1,4 @@
+// const { employees } = require("../../dataset")
 
 
 function getdata() {
@@ -49,3 +50,4 @@ skillsbtn.addEventListener("click", () => {
             <input type="text" name="skills" placeholder="skills" id="skills" required>
         `
     })
+

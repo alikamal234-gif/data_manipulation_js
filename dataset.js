@@ -1,4 +1,4 @@
-const employees = [
+export const employees = [
   {
     id: 1,
     firstName: "Jean",
@@ -502,7 +502,7 @@ const employees = [
     department: "Développement",
     position: "CTO",
     salary: 95000,
-    skills: ["Technical Strategy", "Innovation", "Team Building"],
+    skills: ["Press Releases", "Innovation", "Team Building"],
     joinDate: "2014-02-05",
     email: "paul.leclercq@company.com",
     projects: ["Project Alpha", "Project Beta", "Project Gamma", "Project Delta", "Project Epsilon"],
